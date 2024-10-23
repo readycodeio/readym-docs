@@ -1,8 +1,14 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: ReadyM docs
+description: Documentation for the ReadyM platform.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://readycodeio.github.io/readym-docs
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+nav_external_links:
+- title: ReadyM home page
+  url: https://www.ready.mp
+  hide_icon: false
+  opens_in_new_tab: true
+
+aux_links: # remove if you don't want this link to appear on your pages
+  ReadyM home page: https://www.ready.mp
